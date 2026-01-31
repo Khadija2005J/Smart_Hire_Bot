@@ -1,5 +1,8 @@
 # 🎯 Smart-Hire - Application de Recrutement Intelligent
 
+Watch the demo video here:  
+👉 https://youtu.be/yutaDIqKAkw?si=8ZhCdikVQW-y4Ozz
+
 Application de recrutement automatisée utilisant l'IA (Ollama) pour matcher les candidats avec les besoins des recruteurs.
 
 ## 📋 Fonctionnalités
