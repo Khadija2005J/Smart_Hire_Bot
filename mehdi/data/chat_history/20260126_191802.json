@@ -1,0 +1,345 @@
+{
+  "id": "20260126_191802",
+  "title": "je veux 2 Software Engineers",
+  "timestamp": "2026-01-27T12:47:15.185484",
+  "messages": [
+    {
+      "role": "user",
+      "content": "je veux 2 Software Engineers"
+    },
+    {
+      "role": "assistant",
+      "content": "✅ Excellent ! J'ai trouvé 2 candidat(s) correspondant à votre recherche !",
+      "data": {
+        "matched_candidates": [
+          {
+            "nom": "Nom de famille",
+            "prenom": "Prénom",
+            "email": "email@adresse.fr",
+            "telephone": "06 12 34 56 78",
+            "poste": "Software Engineering Student",
+            "experience": 2,
+            "formation": "National School of Applied Sciences of Fez (ENSAF)",
+            "competences": [
+              "Python",
+              "C++",
+              "Java",
+              "R",
+              "SQL"
+            ],
+            "langues": [
+              "Arabic",
+              "English",
+              "French"
+            ],
+            "linkedin": "linkedin.com",
+            "disponibilite": "En cours",
+            "id": 85,
+            "match_score": 49,
+            "match_reason": "✓ 0 compétences techniques | ✓ 2 match(s) titre | ✓ 2 ans exp."
+          },
+          {
+            "nom": "Rimen",
+            "prenom": "Benmoussa",
+            "email": "rim.benmoussa@usmba.ac.ma",
+            "telephone": "+212 6 82 94 69 96",
+            "poste": "Software Engineering Student",
+            "experience": 2,
+            "formation": "National School of Applied Sciences of Fez (ENSAF)",
+            "competences": [
+              "Python",
+              "C",
+              "C++",
+              "C#",
+              "Java",
+              "R",
+              "SQL"
+            ],
+            "langues": [
+              "Arabic",
+              "English",
+              "French"
+            ],
+            "linkedin": "N/A",
+            "disponibilite": "Present",
+            "id": 89,
+            "match_score": 49,
+            "match_reason": "✓ 0 compétences techniques | ✓ 2 match(s) titre | ✓ 2 ans exp."
+          }
+        ]
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "📧 **Invitations aux entretiens**\n\nVous avez 2 candidat(s) disponible(s).\n\n👉 Combien de candidat(s) souhaitez-vous inviter ?",
+      "data": {
+        "matched_candidates": [
+          {
+            "nom": "Nom de famille",
+            "prenom": "Prénom",
+            "email": "email@adresse.fr",
+            "telephone": "06 12 34 56 78",
+            "poste": "Software Engineering Student",
+            "experience": 2,
+            "formation": "National School of Applied Sciences of Fez (ENSAF)",
+            "competences": [
+              "Python",
+              "C++",
+              "Java",
+              "R",
+              "SQL"
+            ],
+            "langues": [
+              "Arabic",
+              "English",
+              "French"
+            ],
+            "linkedin": "linkedin.com",
+            "disponibilite": "En cours",
+            "id": 85,
+            "match_score": 49,
+            "match_reason": "✓ 0 compétences techniques | ✓ 2 match(s) titre | ✓ 2 ans exp."
+          },
+          {
+            "nom": "Rimen",
+            "prenom": "Benmoussa",
+            "email": "rim.benmoussa@usmba.ac.ma",
+            "telephone": "+212 6 82 94 69 96",
+            "poste": "Software Engineering Student",
+            "experience": 2,
+            "formation": "National School of Applied Sciences of Fez (ENSAF)",
+            "competences": [
+              "Python",
+              "C",
+              "C++",
+              "C#",
+              "Java",
+              "R",
+              "SQL"
+            ],
+            "langues": [
+              "Arabic",
+              "English",
+              "French"
+            ],
+            "linkedin": "N/A",
+            "disponibilite": "Present",
+            "id": 89,
+            "match_score": 49,
+            "match_reason": "✓ 0 compétences techniques | ✓ 2 match(s) titre | ✓ 2 ans exp."
+          }
+        ]
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "🎯 Vous souhaitez inviter 1 candidat(s).\n\n👉 Sélectionnez les candidats à inviter :",
+      "data": {
+        "matched_candidates": [
+          {
+            "nom": "Nom de famille",
+            "prenom": "Prénom",
+            "email": "email@adresse.fr",
+            "telephone": "06 12 34 56 78",
+            "poste": "Software Engineering Student",
+            "experience": 2,
+            "formation": "National School of Applied Sciences of Fez (ENSAF)",
+            "competences": [
+              "Python",
+              "C++",
+              "Java",
+              "R",
+              "SQL"
+            ],
+            "langues": [
+              "Arabic",
+              "English",
+              "French"
+            ],
+            "linkedin": "linkedin.com",
+            "disponibilite": "En cours",
+            "id": 85,
+            "match_score": 49,
+            "match_reason": "✓ 0 compétences techniques | ✓ 2 match(s) titre | ✓ 2 ans exp."
+          },
+          {
+            "nom": "Rimen",
+            "prenom": "Benmoussa",
+            "email": "rim.benmoussa@usmba.ac.ma",
+            "telephone": "+212 6 82 94 69 96",
+            "poste": "Software Engineering Student",
+            "experience": 2,
+            "formation": "National School of Applied Sciences of Fez (ENSAF)",
+            "competences": [
+              "Python",
+              "C",
+              "C++",
+              "C#",
+              "Java",
+              "R",
+              "SQL"
+            ],
+            "langues": [
+              "Arabic",
+              "English",
+              "French"
+            ],
+            "linkedin": "N/A",
+            "disponibilite": "Present",
+            "id": 89,
+            "match_score": 49,
+            "match_reason": "✓ 0 compétences techniques | ✓ 2 match(s) titre | ✓ 2 ans exp."
+          }
+        ]
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "✅ Sélection terminée : 1 candidat(s)\n\n- Rimen Benmoussa (rim.benmoussa@usmba.ac.ma)\n\n📅 Choisissez une date et heure commune pour l'entretien :",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "📅 **Date d'entretien confirmée**\n\n🕒 27/01/2026 à 10:00\n\n👥 Candidats concernés :\n- Rimen Benmoussa\n\n📍 **Où se déroulera l'entretien ?**",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "✅ **Email(s) envoyé(s) avec succès !**\n\n📅 Date : 27/01/2026 à 10:00\n📍 Lieu : Nos bureaux - Smart-Hire, 123 Avenue des Champs-Élysées, 75008 Paris\n\nDestinataires :\n- Rimen Benmoussa (rim.benmoussa@usmba.ac.ma)\n\nQue voulez-vous faire ensuite ?",
+      "data": {}
+    },
+    {
+      "role": "user",
+      "content": "generer le contrat "
+    },
+    {
+      "role": "assistant",
+      "content": "📄 Je génère le contrat demandé.",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "data": {}
+    },
+    {
+      "role": "user",
+      "content": "je veux generer le contrat "
+    },
+    {
+      "role": "assistant",
+      "content": "😔 Aucun candidat ne correspond actuellement.\n\nMotif: Aucun profil dans la base ne correspond aux compétences recherchées.\n\n**Solution:** Publier l'offre sur LinkedIn pour attirer des candidats !",
+      "data": {}
+    },
+    {
+      "role": "user",
+      "content": "generer le contrat"
+    },
+    {
+      "role": "assistant",
+      "content": "📄 Je génère le contrat demandé.",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "data": {}
+    }
+  ],
+  "context": {
+    "num_candidates": 4,
+    "job_description": "je veux generer le contrat ",
+    "last_intent": "generate_contract",
+    "matched_candidates": [
+      {
+        "nom": "Nom de famille",
+        "prenom": "Prénom",
+        "email": "email@adresse.fr",
+        "telephone": "06 12 34 56 78",
+        "poste": "Software Engineering Student",
+        "experience": 2,
+        "formation": "National School of Applied Sciences of Fez (ENSAF)",
+        "competences": [
+          "Python",
+          "C++",
+          "Java",
+          "R",
+          "SQL"
+        ],
+        "langues": [
+          "Arabic",
+          "English",
+          "French"
+        ],
+        "linkedin": "linkedin.com",
+        "disponibilite": "En cours",
+        "id": 85,
+        "match_score": 49,
+        "match_reason": "✓ 0 compétences techniques | ✓ 2 match(s) titre | ✓ 2 ans exp."
+      },
+      {
+        "nom": "Rimen",
+        "prenom": "Benmoussa",
+        "email": "rim.benmoussa@usmba.ac.ma",
+        "telephone": "+212 6 82 94 69 96",
+        "poste": "Software Engineering Student",
+        "experience": 2,
+        "formation": "National School of Applied Sciences of Fez (ENSAF)",
+        "competences": [
+          "Python",
+          "C",
+          "C++",
+          "C#",
+          "Java",
+          "R",
+          "SQL"
+        ],
+        "langues": [
+          "Arabic",
+          "English",
+          "French"
+        ],
+        "linkedin": "N/A",
+        "disponibilite": "Present",
+        "id": 89,
+        "match_score": 49,
+        "match_reason": "✓ 0 compétences techniques | ✓ 2 match(s) titre | ✓ 2 ans exp."
+      }
+    ],
+    "selected_candidates": [
+      {
+        "nom": "Rimen",
+        "prenom": "Benmoussa",
+        "email": "rim.benmoussa@usmba.ac.ma",
+        "telephone": "+212 6 82 94 69 96",
+        "poste": "Software Engineering Student",
+        "experience": 2,
+        "formation": "National School of Applied Sciences of Fez (ENSAF)",
+        "competences": [
+          "Python",
+          "C",
+          "C++",
+          "C#",
+          "Java",
+          "R",
+          "SQL"
+        ],
+        "langues": [
+          "Arabic",
+          "English",
+          "French"
+        ],
+        "linkedin": "N/A",
+        "disponibilite": "Present",
+        "id": 89,
+        "match_score": 49,
+        "match_reason": "✓ 0 compétences techniques | ✓ 2 match(s) titre | ✓ 2 ans exp."
+      }
+    ],
+    "desired_invite_count": 1,
+    "interview_date": "2026-01-27T10:00:00",
+    "interview_location": "Nos bureaux - Smart-Hire, 123 Avenue des Champs-Élysées, 75008 Paris",
+    "pending_linkedin_post": "je veux generer le contrat ",
+    "job_title": "je veux generer le contrat "
+  }
+}

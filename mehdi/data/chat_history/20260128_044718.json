@@ -1,0 +1,283 @@
+{
+  "id": "20260128_044718",
+  "title": "bonjour",
+  "timestamp": "2026-01-28T04:47:46.730283",
+  "messages": [
+    {
+      "role": "user",
+      "content": "bonjour"
+    },
+    {
+      "role": "assistant",
+      "content": "👋 Bonjour ! Je suis SMART-HIRE. Que puis-je faire pour vous ?",
+      "data": {}
+    },
+    {
+      "role": "user",
+      "content": "je veux des developers python "
+    },
+    {
+      "role": "assistant",
+      "content": "✅ Excellent ! J'ai trouvé 4 candidat(s) correspondant à votre recherche !",
+      "data": {
+        "matched_candidates": [
+          {
+            "id": 1,
+            "nom": "Dubois",
+            "prenom": "Sarah",
+            "email": "sarah.dubois@example.com",
+            "telephone": "+33 6 12 34 56 78",
+            "poste": "Data Scientist Senior",
+            "experience": 6,
+            "formation": "Doctorat Machine Learning - École Polytechnique",
+            "competences": [
+              "Python",
+              "Machine Learning",
+              "Deep Learning",
+              "TensorFlow",
+              "PyTorch",
+              "NLP",
+              "Computer Vision",
+              "Scikit-learn",
+              "MLOps",
+              "AWS SageMaker"
+            ],
+            "langues": [
+              "Français (natif)",
+              "Anglais (bilingue)",
+              "Allemand (courant)"
+            ],
+            "linkedin": "https://linkedin.com/in/sarah-dubois",
+            "disponibilite": "Préavis de 2 mois",
+            "match_score": 82,
+            "match_reason": "✓ 3 compétences techniques | ✓ 0 match(s) titre | ✓ 6 ans exp."
+          },
+          {
+            "id": 35,
+            "nom": "Denis",
+            "prenom": "Maëlys",
+            "email": "maelys.denis@example.com",
+            "telephone": "+33 6 56 78 90 15",
+            "poste": "Federated Learning Researcher",
+            "experience": 4,
+            "formation": "Doctorat ML Distribué - EPFL",
+            "competences": [
+              "Federated Learning",
+              "Privacy-Preserving ML",
+              "Differential Privacy",
+              "Distributed Systems",
+              "PyTorch",
+              "TensorFlow Federated",
+              "Research",
+              "Secure Aggregation",
+              "Python",
+              "Publications"
+            ],
+            "langues": [
+              "Français (natif)",
+              "Anglais (bilingue)"
+            ],
+            "cv_url": "https://example.com/cv/maelys-denis.pdf",
+            "disponibilite": "Immédiate",
+            "match_score": 78,
+            "match_reason": "✓ 3 compétences techniques | ✓ 0 match(s) titre | ✓ 4 ans exp."
+          },
+          {
+            "id": 11,
+            "nom": "Bonnet",
+            "prenom": "Camille",
+            "email": "camille.bonnet@example.com",
+            "telephone": "+33 6 12 34 56 79",
+            "poste": "Machine Learning Engineer",
+            "experience": 4,
+            "formation": "Ingénieur CentraleSupélec",
+            "competences": [
+              "Machine Learning",
+              "MLOps",
+              "Kubeflow",
+              "MLflow",
+              "Python",
+              "TensorFlow",
+              "Model Deployment",
+              "Feature Engineering",
+              "A/B Testing",
+              "Model Monitoring"
+            ],
+            "langues": [
+              "Français (natif)",
+              "Anglais (professionnel)",
+              "Italien (intermédiaire)"
+            ],
+            "cv_url": "https://example.com/cv/camille-bonnet.pdf",
+            "disponibilite": "Préavis de 1 mois",
+            "match_score": 73,
+            "match_reason": "✓ 2 compétences techniques | ✓ 1 match(s) titre | ✓ 4 ans exp."
+          },
+          {
+            "id": 17,
+            "nom": "Fontaine",
+            "prenom": "Clara",
+            "email": "clara.fontaine@example.com",
+            "telephone": "+33 6 78 90 12 35",
+            "poste": "MLOps Engineer",
+            "experience": 4,
+            "formation": "Master Data Engineering - Télécom Paris",
+            "competences": [
+              "MLOps",
+              "Kubernetes",
+              "Docker",
+              "Kubeflow",
+              "CI/CD",
+              "Model Serving",
+              "Python",
+              "TensorFlow Serving",
+              "Monitoring",
+              "AWS",
+              "GCP"
+            ],
+            "langues": [
+              "Français (natif)",
+              "Anglais (professionnel)",
+              "Portugais (intermédiaire)"
+            ],
+            "cv_url": "https://example.com/cv/clara-fontaine.pdf",
+            "disponibilite": "Préavis de 1 mois",
+            "match_score": 73,
+            "match_reason": "✓ 2 compétences techniques | ✓ 1 match(s) titre | ✓ 4 ans exp."
+          }
+        ]
+      }
+    }
+  ],
+  "context": {
+    "last_intent": "search_candidates",
+    "num_candidates": 4,
+    "job_description": "je veux des developers python ",
+    "matched_candidates": [
+      {
+        "id": 1,
+        "nom": "Dubois",
+        "prenom": "Sarah",
+        "email": "sarah.dubois@example.com",
+        "telephone": "+33 6 12 34 56 78",
+        "poste": "Data Scientist Senior",
+        "experience": 6,
+        "formation": "Doctorat Machine Learning - École Polytechnique",
+        "competences": [
+          "Python",
+          "Machine Learning",
+          "Deep Learning",
+          "TensorFlow",
+          "PyTorch",
+          "NLP",
+          "Computer Vision",
+          "Scikit-learn",
+          "MLOps",
+          "AWS SageMaker"
+        ],
+        "langues": [
+          "Français (natif)",
+          "Anglais (bilingue)",
+          "Allemand (courant)"
+        ],
+        "linkedin": "https://linkedin.com/in/sarah-dubois",
+        "disponibilite": "Préavis de 2 mois",
+        "match_score": 82,
+        "match_reason": "✓ 3 compétences techniques | ✓ 0 match(s) titre | ✓ 6 ans exp."
+      },
+      {
+        "id": 35,
+        "nom": "Denis",
+        "prenom": "Maëlys",
+        "email": "maelys.denis@example.com",
+        "telephone": "+33 6 56 78 90 15",
+        "poste": "Federated Learning Researcher",
+        "experience": 4,
+        "formation": "Doctorat ML Distribué - EPFL",
+        "competences": [
+          "Federated Learning",
+          "Privacy-Preserving ML",
+          "Differential Privacy",
+          "Distributed Systems",
+          "PyTorch",
+          "TensorFlow Federated",
+          "Research",
+          "Secure Aggregation",
+          "Python",
+          "Publications"
+        ],
+        "langues": [
+          "Français (natif)",
+          "Anglais (bilingue)"
+        ],
+        "cv_url": "https://example.com/cv/maelys-denis.pdf",
+        "disponibilite": "Immédiate",
+        "match_score": 78,
+        "match_reason": "✓ 3 compétences techniques | ✓ 0 match(s) titre | ✓ 4 ans exp."
+      },
+      {
+        "id": 11,
+        "nom": "Bonnet",
+        "prenom": "Camille",
+        "email": "camille.bonnet@example.com",
+        "telephone": "+33 6 12 34 56 79",
+        "poste": "Machine Learning Engineer",
+        "experience": 4,
+        "formation": "Ingénieur CentraleSupélec",
+        "competences": [
+          "Machine Learning",
+          "MLOps",
+          "Kubeflow",
+          "MLflow",
+          "Python",
+          "TensorFlow",
+          "Model Deployment",
+          "Feature Engineering",
+          "A/B Testing",
+          "Model Monitoring"
+        ],
+        "langues": [
+          "Français (natif)",
+          "Anglais (professionnel)",
+          "Italien (intermédiaire)"
+        ],
+        "cv_url": "https://example.com/cv/camille-bonnet.pdf",
+        "disponibilite": "Préavis de 1 mois",
+        "match_score": 73,
+        "match_reason": "✓ 2 compétences techniques | ✓ 1 match(s) titre | ✓ 4 ans exp."
+      },
+      {
+        "id": 17,
+        "nom": "Fontaine",
+        "prenom": "Clara",
+        "email": "clara.fontaine@example.com",
+        "telephone": "+33 6 78 90 12 35",
+        "poste": "MLOps Engineer",
+        "experience": 4,
+        "formation": "Master Data Engineering - Télécom Paris",
+        "competences": [
+          "MLOps",
+          "Kubernetes",
+          "Docker",
+          "Kubeflow",
+          "CI/CD",
+          "Model Serving",
+          "Python",
+          "TensorFlow Serving",
+          "Monitoring",
+          "AWS",
+          "GCP"
+        ],
+        "langues": [
+          "Français (natif)",
+          "Anglais (professionnel)",
+          "Portugais (intermédiaire)"
+        ],
+        "cv_url": "https://example.com/cv/clara-fontaine.pdf",
+        "disponibilite": "Préavis de 1 mois",
+        "match_score": 73,
+        "match_reason": "✓ 2 compétences techniques | ✓ 1 match(s) titre | ✓ 4 ans exp."
+      }
+    ]
+  }
+}

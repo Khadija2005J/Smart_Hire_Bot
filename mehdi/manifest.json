@@ -1,0 +1,64 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.14/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.14",
+  "version": "2.0.2",
+  "id": "49c10136-0c24-4053-be90-3133bb75ebed",
+  "packageName": "com.smarthire.bot",
+  "developer": {
+    "name": "Smart-Hire Team",
+    "websiteUrl": "https://github.com",
+    "privacyUrl": "https://github.com",
+    "termsOfUseUrl": "https://github.com"
+  },
+  "name": {
+    "short": "SMART-HIRE",
+    "full": "Smart-Hire Assistant de Recrutement IA"
+  },
+  "description": {
+    "short": "Bot pour automatiser le recrutement",
+    "full": "SMART-HIRE est un assistant alimenté par IA pour les recruteurs. Il automatise l'extraction des CVs et gère les interactions."
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "accentColor": "#667eea",
+  "bots": [
+    {
+      "botId": "49c10136-0c24-4053-be90-3133bb75ebed",
+      "scopes": [
+        "personal",
+        "team",
+        "groupchat"
+      ],
+      "isNotificationOnly": false,
+      "supportsFiles": true,
+      "commandLists": [
+        {
+          "scopes": [
+            "personal",
+            "team",
+            "groupchat"
+          ],
+          "commands": [
+            {
+              "title": "Aide",
+              "description": "Afficher l'aide du bot"
+            },
+            {
+              "title": "Chercher candidat",
+              "description": "Rechercher des candidats qualifiés"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "osteopathically-unrepossessed-shanice.ngrok-free.dev"
+  ]
+}

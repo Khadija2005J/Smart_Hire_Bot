@@ -1,0 +1,32 @@
+{
+  "id": "20260126_184154",
+  "title": "touvr moi deux  Software Engineers",
+  "timestamp": "2026-01-27T12:34:26.113158",
+  "messages": [
+    {
+      "role": "user",
+      "content": "touvr moi deux  Software Engineers"
+    },
+    {
+      "role": "assistant",
+      "content": "🤔 Je n'ai pas bien compris. Pouvez-vous reformuler ?",
+      "data": {}
+    },
+    {
+      "role": "user",
+      "content": "je veux 2  Software Engineers"
+    },
+    {
+      "role": "assistant",
+      "content": "😔 Aucun candidat ne correspond actuellement.\n\nMotif: Bien que 2 profil(s) partagent quelques mots-clés, aucun ne correspond suffisamment au besoin spécifique (seuil: 30%).\n\n**Solution:** Publier l'offre sur LinkedIn pour attirer des candidats !",
+      "data": {}
+    }
+  ],
+  "context": {
+    "last_intent": "search_candidates",
+    "num_candidates": 2,
+    "job_description": "je veux 2  Software Engineers",
+    "pending_linkedin_post": "je veux 2  Software Engineers",
+    "job_title": "je veux 2  Software Engineers"
+  }
+}

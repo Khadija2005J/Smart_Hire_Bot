@@ -1,0 +1,87 @@
+{
+  "id": "20260127_132724",
+  "title": "generer le contrat",
+  "timestamp": "2026-01-27T13:30:38.468951",
+  "messages": [
+    {
+      "role": "user",
+      "content": "generer le contrat"
+    },
+    {
+      "role": "assistant",
+      "content": "📄 **Génération de contrat**\n\nAucun candidat en contexte.\n\n**Option 1:** Entrez le nom complet du candidat\n(Format: Nom Prénom)\n\n**Option 2:** Recherchez d'abord des candidats",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "✏️ **Saisie manuelle du candidat**\n\nEntrez le nom complet du candidat (Format: Nom Prénom)\nExemple: Benmoussa Rimen\n\nLe système recherchera ce candidat dans la base de données.",
+      "data": {}
+    },
+    {
+      "role": "user",
+      "content": "rim benmoussa"
+    },
+    {
+      "role": "assistant",
+      "content": "✅ **Candidat trouvé !**\n\n👤 Nom : Rimen Benmoussa\n📧 Email : rim.benmoussa@usmba.ac.ma\n💼 Poste : Software Engineering Student\n\nQuel type de contrat souhaitez-vous générer ?",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "📄 **Génération de contrat CDD**\n\nCandidat : Rimen Benmoussa\nEmail : rim.benmoussa@usmba.ac.ma\n\n💰 Quel est le salaire annuel brut proposé ?\nExemples : 35000, 45000, 60000",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "📅 **Date de début du contrat CDD**\n\n💰 Salaire : 35,000 € / an\n\nQuand le contrat doit-il commencer ?",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "📅 **Date de fin du contrat CDD**\n\n📅 Début : 03/02/2026\n\nQuand le contrat doit-il se terminer ?",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "✅ **Contrat généré avec succès !**\n\n📄 Type : CDD\n👤 Candidat : Rimen Benmoussa\n💰 Salaire : 35,000 € / an\n📅 Date de début : 03/02/2026\n📅 Date de fin : 03/02/2027\n\n📁 Fichier : contracts/contrat_Rimen_Benmoussa_20260127.txt\n\nQue voulez-vous faire ensuite ?",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "data": {}
+    }
+  ],
+  "context": {
+    "last_intent": "generate_contract",
+    "awaiting_candidate_name": false,
+    "selected_candidates": [
+      {
+        "nom": "Rimen",
+        "prenom": "Benmoussa",
+        "email": "rim.benmoussa@usmba.ac.ma",
+        "telephone": "+212 6 82 94 69 96",
+        "poste": "Software Engineering Student",
+        "experience": 2,
+        "formation": "National School of Applied Sciences of Fez (ENSAF)",
+        "competences": [
+          "Python",
+          "C",
+          "C++",
+          "C#",
+          "Java",
+          "R",
+          "SQL"
+        ],
+        "langues": [
+          "Arabic",
+          "English",
+          "French"
+        ],
+        "linkedin": "N/A",
+        "disponibilite": "Present",
+        "id": 89
+      }
+    ]
+  }
+}

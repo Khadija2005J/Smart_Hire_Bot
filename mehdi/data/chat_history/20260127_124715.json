@@ -1,0 +1,38 @@
+{
+  "id": "20260127_124715",
+  "title": "generer le contrat",
+  "timestamp": "2026-01-27T12:48:36.408732",
+  "messages": [
+    {
+      "role": "user",
+      "content": "generer le contrat"
+    },
+    {
+      "role": "assistant",
+      "content": "📄 Je génère le contrat demandé.",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "data": {}
+    },
+    {
+      "role": "user",
+      "content": "generer le contrat\n"
+    },
+    {
+      "role": "assistant",
+      "content": "📄 Je génère le contrat demandé.",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "data": {}
+    }
+  ],
+  "context": {
+    "last_intent": "generate_contract"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "20260127_140153",
+  "title": "generer contrat ",
+  "timestamp": "2026-01-27T14:04:04.024778",
+  "messages": [
+    {
+      "role": "user",
+      "content": "generer contrat "
+    },
+    {
+      "role": "assistant",
+      "content": "📄 **Génération de contrat**\n\nAucun candidat en contexte.\n\n**Option 1:** Entrez le nom complet du candidat\n(Format: Nom Prénom)\n\n**Option 2:** Recherchez d'abord des candidats",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "✏️ **Saisie manuelle du candidat**\n\nEntrez le nom complet du candidat (Format: Nom Prénom)\nExemple: Benmoussa Rimen\n\nLe système recherchera ce candidat dans la base de données.",
+      "data": {}
+    },
+    {
+      "role": "user",
+      "content": "maha marrakchi"
+    },
+    {
+      "role": "assistant",
+      "content": "✅ **Candidat trouvé !**\n\n👤 Nom : Marrakchi Maha\n📧 Email : maha.marrakchi@usmba.ac.ma\n💼 Poste : Threat Modeling Specialist\n\nQuel type de contrat souhaitez-vous générer ?",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "📄 **Génération de contrat CDI**\n\nCandidat : Marrakchi Maha\nEmail : maha.marrakchi@usmba.ac.ma\n\n💰 Quel est le salaire annuel brut proposé ?\nExemples : 35000, 45000, 60000",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "📅 **Date de début du contrat CDI**\n\n💰 Salaire : 35,000 € / an\n\nQuand le contrat doit-il commencer ?",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "✅ **Contrat généré avec succès !**\n\n📄 Type : CDI\n👤 Candidat : Marrakchi Maha\n💰 Salaire : 35,000 € / an\n📅 Date de début : 03/02/2026\n\n✅ PDF généré et prêt à télécharger !\n\nQue voulez-vous faire ensuite ?",
+      "data": {
+        "contract_path": "contracts/contrat_Marrakchi_Maha_20260127.pdf",
+        "contract_filename": "contrat_Marrakchi_Maha_20260127.pdf"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "data": {}
+    }
+  ],
+  "context": {
+    "last_intent": "generate_contract",
+    "awaiting_candidate_name": false,
+    "selected_candidates": [
+      {
+        "id": 81,
+        "nom": "Marrakchi",
+        "prenom": "Maha",
+        "email": "maha.marrakchi@usmba.ac.ma",
+        "telephone": "+33 6 01 23 45 74",
+        "poste": "Threat Modeling Specialist",
+        "experience": 7,
+        "formation": "Ingenieur informatique intelligence artificielle et confiance numerique",
+        "competences": [
+          "Python",
+          "SQL",
+          "security",
+          "Attack Trees",
+          "ai",
+          "Security Architecture",
+          "app conception",
+          "java",
+          "aws",
+          "Documentation"
+        ],
+        "langues": [
+          "Français (natif)",
+          "Anglais (courant)"
+        ],
+        "linkedin": "https://linkedin.com/in/jules-robin",
+        "disponibilite": "Préavis de 2 mois"
+      }
+    ]
+  }
+}

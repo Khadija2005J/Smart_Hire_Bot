@@ -1,0 +1,28 @@
+{
+  "id": "20260128_201250",
+  "title": "je veux un medecin ",
+  "timestamp": "2026-01-28T20:13:17.980324",
+  "messages": [
+    {
+      "role": "user",
+      "content": "je veux un medecin "
+    },
+    {
+      "role": "assistant",
+      "content": "😔 Aucun candidat ne correspond actuellement.\n\nMotif: Aucun profil dans la base ne correspond aux compétences recherchées.\n\n**Solution:** Publier l'offre sur LinkedIn pour attirer des candidats !",
+      "data": {}
+    },
+    {
+      "role": "assistant",
+      "content": "✅ Post LinkedIn publié avec succès ! 🚀\n\nVotre offre est maintenant visible sur LinkedIn.",
+      "data": {}
+    }
+  ],
+  "context": {
+    "num_candidates": 4,
+    "job_description": "je veux un medecin ",
+    "last_intent": "search_candidates",
+    "pending_linkedin_post": "je veux un medecin ",
+    "job_title": "je veux un medecin "
+  }
+}

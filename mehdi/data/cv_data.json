@@ -1,0 +1,2416 @@
+[
+  {
+    "id": 1,
+    "nom": "Dubois",
+    "prenom": "Sarah",
+    "email": "sarah.dubois@example.com",
+    "telephone": "+33 6 12 34 56 78",
+    "poste": "Data Scientist Senior",
+    "experience": 6,
+    "formation": "Doctorat Machine Learning - École Polytechnique",
+    "competences": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "NLP",
+      "Computer Vision",
+      "Scikit-learn",
+      "MLOps",
+      "AWS SageMaker"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)",
+      "Allemand (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/sarah-dubois",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 2,
+    "nom": "Martin",
+    "prenom": "Alexandre",
+    "email": "alexandre.martin@example.com",
+    "telephone": "+33 6 23 45 67 89",
+    "poste": "Expert Cybersécurité",
+    "experience": 8,
+    "formation": "Master Cybersécurité - ANSSI",
+    "competences": [
+      "Penetration Testing",
+      "OSINT",
+      "Forensics",
+      "SIEM",
+      "SOC",
+      "ISO 27001",
+      "CISSP",
+      "Threat Intelligence",
+      "Incident Response",
+      "Red Team"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "cv_url": "https://example.com/cv/alexandre-martin.pdf",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 3,
+    "nom": "Leroux",
+    "prenom": "Emma",
+    "email": "emma.leroux@example.com",
+    "telephone": "+33 6 34 56 78 90",
+    "poste": "Ingénieure IA - Vision par Ordinateur",
+    "experience": 5,
+    "formation": "Ingénieur ENSTA + Master Computer Vision",
+    "competences": [
+      "Computer Vision",
+      "Deep Learning",
+      "OpenCV",
+      "YOLO",
+      "CNN",
+      "Object Detection",
+      "Segmentation",
+      "PyTorch",
+      "CUDA",
+      "Edge AI"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)",
+      "Mandarin (intermédiaire)"
+    ],
+    "linkedin": "https://linkedin.com/in/emma-leroux",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 4,
+    "nom": "Bernard",
+    "prenom": "Lucas",
+    "email": "lucas.bernard@example.com",
+    "telephone": "+33 6 45 67 89 01",
+    "poste": "Analyste SOC",
+    "experience": 3,
+    "formation": "Master Sécurité des Systèmes - EPITA",
+    "competences": [
+      "SIEM",
+      "Splunk",
+      "QRadar",
+      "Threat Hunting",
+      "Incident Response",
+      "Malware Analysis",
+      "Python",
+      "Log Analysis",
+      "IDS/IPS",
+      "Blue Team"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/lucas-bernard",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 5,
+    "nom": "Petit",
+    "prenom": "Chloé",
+    "email": "chloe.petit@example.com",
+    "telephone": "+33 6 56 78 90 12",
+    "poste": "Data Engineer",
+    "experience": 4,
+    "formation": "Ingénieur ENSIMAG Grenoble",
+    "competences": [
+      "Big Data",
+      "Apache Spark",
+      "Hadoop",
+      "Kafka",
+      "Airflow",
+      "Python",
+      "Scala",
+      "SQL",
+      "ETL",
+      "Data Pipeline",
+      "AWS",
+      "Databricks"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/chloe-petit.pdf",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 6,
+    "nom": "Moreau",
+    "prenom": "Thomas",
+    "email": "thomas.moreau@example.com",
+    "telephone": "+33 6 67 89 01 23",
+    "poste": "Architecte Cloud Security",
+    "experience": 10,
+    "formation": "Ingénieur ENSEIRB + MBA",
+    "competences": [
+      "Cloud Security",
+      "AWS Security",
+      "Azure Security",
+      "GCP Security",
+      "IAM",
+      "Zero Trust",
+      "DevSecOps",
+      "Kubernetes Security",
+      "Network Security",
+      "Compliance"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/thomas-moreau",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 7,
+    "nom": "Rousseau",
+    "prenom": "Marie",
+    "email": "marie.rousseau@example.com",
+    "telephone": "+33 6 78 90 12 34",
+    "poste": "Spécialiste NLP / IA",
+    "experience": 5,
+    "formation": "Doctorat TAL - Sorbonne Université",
+    "competences": [
+      "NLP",
+      "Transformers",
+      "BERT",
+      "GPT",
+      "LLM",
+      "SpaCy",
+      "Hugging Face",
+      "Python",
+      "Deep Learning",
+      "Text Mining",
+      "Chatbots"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)",
+      "Espagnol (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/marie-rousseau",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 8,
+    "nom": "Vincent",
+    "prenom": "Hugo",
+    "email": "hugo.vincent@example.com",
+    "telephone": "+33 6 89 01 23 45",
+    "poste": "Ingénieur DevSecOps",
+    "experience": 6,
+    "formation": "Ingénieur UTC Compiègne",
+    "competences": [
+      "DevSecOps",
+      "CI/CD Security",
+      "Container Security",
+      "Docker",
+      "Kubernetes",
+      "GitLab CI",
+      "Jenkins",
+      "Vault",
+      "SAST",
+      "DAST",
+      "Terraform"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "cv_url": "https://example.com/cv/hugo-vincent.pdf",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 9,
+    "nom": "Fournier",
+    "prenom": "Léa",
+    "email": "lea.fournier@example.com",
+    "telephone": "+33 6 90 12 34 56",
+    "poste": "Data Analyst BI",
+    "experience": 3,
+    "formation": "Master Data Science - Dauphine",
+    "competences": [
+      "Business Intelligence",
+      "SQL",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics",
+      "Excel Avancé",
+      "A/B Testing",
+      "KPI Dashboard"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/lea-fournier",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 10,
+    "nom": "Girard",
+    "prenom": "Nathan",
+    "email": "ksandi2004@gmail.com",
+    "telephone": "+33 6 01 23 45 67",
+    "poste": "Pentester Ethical Hacker",
+    "experience": 7,
+    "formation": "Master Ethical Hacking - CEH Certified",
+    "competences": [
+      "Penetration Testing",
+      "Web Application Security",
+      "Network Security",
+      "Burp Suite",
+      "Metasploit",
+      "Nmap",
+      "Wireshark",
+      "OWASP",
+      "Bug Bounty",
+      "Vulnerability Assessment"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/nathan-girard",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 11,
+    "nom": "Bonnet",
+    "prenom": "Camille",
+    "email": "camille.bonnet@example.com",
+    "telephone": "+33 6 12 34 56 79",
+    "poste": "Machine Learning Engineer",
+    "experience": 4,
+    "formation": "Ingénieur CentraleSupélec",
+    "competences": [
+      "Machine Learning",
+      "MLOps",
+      "Kubeflow",
+      "MLflow",
+      "Python",
+      "TensorFlow",
+      "Model Deployment",
+      "Feature Engineering",
+      "A/B Testing",
+      "Model Monitoring"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)",
+      "Italien (intermédiaire)"
+    ],
+    "cv_url": "https://example.com/cv/camille-bonnet.pdf",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 12,
+    "nom": "Laurent",
+    "prenom": "Maxime",
+    "email": "maxime.laurent@example.com",
+    "telephone": "+33 6 23 45 67 80",
+    "poste": "RSSI (Responsable Sécurité)",
+    "experience": 12,
+    "formation": "Ingénieur + MBA + CISSP",
+    "competences": [
+      "Governance",
+      "Risk Management",
+      "ISO 27001",
+      "GDPR",
+      "Security Strategy",
+      "Audit",
+      "Compliance",
+      "Team Management",
+      "Budget Management",
+      "Board Reporting"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/maxime-laurent",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 13,
+    "nom": "Simon",
+    "prenom": "Inès",
+    "email": "ines.simon@example.com",
+    "telephone": "+33 6 34 56 78 91",
+    "poste": "AI Research Scientist",
+    "experience": 7,
+    "formation": "Doctorat IA - MIT",
+    "competences": [
+      "Deep Learning",
+      "Reinforcement Learning",
+      "GANs",
+      "Research",
+      "Publications",
+      "PyTorch",
+      "Neural Architecture Search",
+      "Transfer Learning",
+      "Meta-Learning",
+      "Python"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)",
+      "Arabe (natif)"
+    ],
+    "linkedin": "https://linkedin.com/in/ines-simon",
+    "disponibilite": "Préavis de 4 mois"
+  },
+  {
+    "id": 14,
+    "nom": "Michel",
+    "prenom": "Arthur",
+    "email": "arthur.michel@example.com",
+    "telephone": "+33 6 45 67 89 02",
+    "poste": "Blockchain Security Expert",
+    "experience": 5,
+    "formation": "Master Cryptographie - ENS",
+    "competences": [
+      "Blockchain Security",
+      "Smart Contract Audit",
+      "Solidity",
+      "Cryptography",
+      "Web3",
+      "Ethereum",
+      "DeFi Security",
+      "Penetration Testing",
+      "Python",
+      "Go"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "cv_url": "https://example.com/cv/arthur-michel.pdf",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 15,
+    "nom": "Leroy",
+    "prenom": "Zoé",
+    "email": "zoe.leroy@example.com",
+    "telephone": "+33 6 56 78 90 13",
+    "poste": "Data Scientist Healthcare",
+    "experience": 6,
+    "formation": "Doctorat Bioinformatique - Institut Pasteur",
+    "competences": [
+      "Healthcare AI",
+      "Medical Imaging",
+      "Genomics",
+      "Clinical Data Analysis",
+      "Python",
+      "R",
+      "TensorFlow",
+      "DICOM",
+      "FHIR",
+      "Privacy Computing"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/zoe-leroy",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 16,
+    "nom": "Roux",
+    "prenom": "Paul",
+    "email": "paul.roux@example.com",
+    "telephone": "+33 6 67 89 01 24",
+    "poste": "Security Operations Manager",
+    "experience": 9,
+    "formation": "Ingénieur ESIEA + CISM",
+    "competences": [
+      "SOC Management",
+      "Team Leadership",
+      "Incident Response",
+      "Threat Intelligence",
+      "Security Monitoring",
+      "SIEM Management",
+      "Crisis Management",
+      "Vendor Management",
+      "Budget Planning",
+      "Reporting"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/paul-roux",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 17,
+    "nom": "Fontaine",
+    "prenom": "Clara",
+    "email": "clara.fontaine@example.com",
+    "telephone": "+33 6 78 90 12 35",
+    "poste": "MLOps Engineer",
+    "experience": 4,
+    "formation": "Master Data Engineering - Télécom Paris",
+    "competences": [
+      "MLOps",
+      "Kubernetes",
+      "Docker",
+      "Kubeflow",
+      "CI/CD",
+      "Model Serving",
+      "Python",
+      "TensorFlow Serving",
+      "Monitoring",
+      "AWS",
+      "GCP"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)",
+      "Portugais (intermédiaire)"
+    ],
+    "cv_url": "https://example.com/cv/clara-fontaine.pdf",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 18,
+    "nom": "Garnier",
+    "prenom": "Louis",
+    "email": "louis.garnier@example.com",
+    "telephone": "+33 6 89 01 23 46",
+    "poste": "Architecte Data",
+    "experience": 11,
+    "formation": "Ingénieur Mines ParisTech",
+    "competences": [
+      "Data Architecture",
+      "Data Lake",
+      "Data Warehouse",
+      "Snowflake",
+      "Databricks",
+      "AWS",
+      "Azure",
+      "Data Governance",
+      "Metadata Management",
+      "Data Modeling"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/louis-garnier",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 19,
+    "nom": "Muller",
+    "prenom": "Manon",
+    "email": "manon.muller@example.com",
+    "telephone": "+33 6 90 12 34 57",
+    "poste": "Forensics Investigator",
+    "experience": 6,
+    "formation": "Master Cybercriminalité - Université Paris 2",
+    "competences": [
+      "Digital Forensics",
+      "Incident Investigation",
+      "Malware Analysis",
+      "Memory Forensics",
+      "Mobile Forensics",
+      "EnCase",
+      "FTK",
+      "Volatility",
+      "Chain of Custody",
+      "Expert Witness"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)",
+      "Allemand (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/manon-muller",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 20,
+    "nom": "Lefebvre",
+    "prenom": "Raphaël",
+    "email": "raphael.lefebvre@example.com",
+    "telephone": "+33 6 01 23 45 68",
+    "poste": "Computer Vision Engineer",
+    "experience": 5,
+    "formation": "Ingénieur ENSTA + Master CV",
+    "competences": [
+      "Computer Vision",
+      "Deep Learning",
+      "OpenCV",
+      "PyTorch",
+      "Object Tracking",
+      "3D Vision",
+      "SLAM",
+      "Point Cloud",
+      "Real-time Processing",
+      "C++"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "cv_url": "https://example.com/cv/raphael-lefebvre.pdf",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 21,
+    "nom": "Dupont",
+    "prenom": "Océane",
+    "email": "oceane.dupont@example.com",
+    "telephone": "+33 6 12 34 56 80",
+    "poste": "Threat Intelligence Analyst",
+    "experience": 4,
+    "formation": "Master Cyber Intelligence - ESIEA",
+    "competences": [
+      "Threat Intelligence",
+      "OSINT",
+      "Cyber Threat Analysis",
+      "APT Tracking",
+      "MITRE ATT&CK",
+      "STIX/TAXII",
+      "ThreatConnect",
+      "Maltego",
+      "Threat Hunting",
+      "Python"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)",
+      "Russe (intermédiaire)"
+    ],
+    "linkedin": "https://linkedin.com/in/oceane-dupont",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 22,
+    "nom": "Robert",
+    "prenom": "Gabriel",
+    "email": "gabriel.robert@example.com",
+    "telephone": "+33 6 23 45 67 81",
+    "poste": "Quantitative Analyst AI",
+    "experience": 7,
+    "formation": "Doctorat Mathématiques Appliquées - X",
+    "competences": [
+      "Quantitative Finance",
+      "Algorithmic Trading",
+      "Machine Learning",
+      "Time Series",
+      "Risk Modeling",
+      "Python",
+      "R",
+      "Statistics",
+      "Backtesting",
+      "Portfolio Optimization"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/gabriel-robert",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 23,
+    "nom": "Richard",
+    "prenom": "Julie",
+    "email": "julie.richard@example.com",
+    "telephone": "+33 6 34 56 78 92",
+    "poste": "GRC Analyst (Governance Risk Compliance)",
+    "experience": 5,
+    "formation": "Master Risk Management - ESSEC",
+    "competences": [
+      "GRC",
+      "ISO 27001",
+      "GDPR",
+      "Risk Assessment",
+      "Compliance",
+      "Policy Development",
+      "Audit",
+      "Third Party Risk",
+      "Control Framework",
+      "Reporting"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "cv_url": "https://example.com/cv/julie-richard.pdf",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 24,
+    "nom": "Durand",
+    "prenom": "Enzo",
+    "email": "enzo.durand@example.com",
+    "telephone": "+33 6 45 67 89 03",
+    "poste": "Recommender Systems Engineer",
+    "experience": 4,
+    "formation": "Master Data Science - ENSAE",
+    "competences": [
+      "Recommender Systems",
+      "Collaborative Filtering",
+      "Deep Learning",
+      "TensorFlow",
+      "Python",
+      "Spark",
+      "A/B Testing",
+      "Personalization",
+      "Real-time ML",
+      "Scalability"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "linkedin": "https://linkedin.com/in/enzo-durand",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 25,
+    "nom": "Blanc",
+    "prenom": "Lola",
+    "email": "lola.blanc@example.com",
+    "telephone": "+33 6 56 78 90 14",
+    "poste": "Application Security Engineer",
+    "experience": 6,
+    "formation": "Ingénieur ENSEIRB + OSCP",
+    "competences": [
+      "Application Security",
+      "OWASP",
+      "Secure Code Review",
+      "SAST",
+      "DAST",
+      "Threat Modeling",
+      "Security Testing",
+      "Burp Suite",
+      "Java Security",
+      "Python Security"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)",
+      "Espagnol (intermédiaire)"
+    ],
+    "linkedin": "https://linkedin.com/in/lola-blanc",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 26,
+    "nom": "Mercier",
+    "prenom": "Tom",
+    "email": "tom.mercier@example.com",
+    "telephone": "+33 6 67 89 01 25",
+    "poste": "AI Ethics Researcher",
+    "experience": 5,
+    "formation": "Doctorat Éthique IA - ENS",
+    "competences": [
+      "AI Ethics",
+      "Bias Detection",
+      "Fairness in ML",
+      "Explainable AI",
+      "Responsible AI",
+      "Research",
+      "Python",
+      "Policy Development",
+      "Impact Assessment",
+      "Privacy"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/tom-mercier.pdf",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 27,
+    "nom": "Andre",
+    "prenom": "Lily",
+    "email": "lily.andre@example.com",
+    "telephone": "+33 6 78 90 12 36",
+    "poste": "Network Security Engineer",
+    "experience": 7,
+    "formation": "Ingénieur Télécom + CCNP Security",
+    "competences": [
+      "Network Security",
+      "Firewall",
+      "VPN",
+      "IDS/IPS",
+      "Zero Trust",
+      "Palo Alto",
+      "Cisco",
+      "Fortinet",
+      "SD-WAN",
+      "Network Segmentation"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "linkedin": "https://linkedin.com/in/lily-andre",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 28,
+    "nom": "Morel",
+    "prenom": "Sacha",
+    "email": "sacha.morel@example.com",
+    "telephone": "+33 6 89 01 23 47",
+    "poste": "Time Series Forecasting Specialist",
+    "experience": 4,
+    "formation": "Master Data Science - ENSAI",
+    "competences": [
+      "Time Series",
+      "Forecasting",
+      "ARIMA",
+      "Prophet",
+      "LSTM",
+      "Python",
+      "R",
+      "Statistics",
+      "Demand Forecasting",
+      "Anomaly Detection"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/sacha-morel",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 29,
+    "nom": "Giraud",
+    "prenom": "Eva",
+    "email": "eva.giraud@example.com",
+    "telephone": "+33 6 90 12 34 58",
+    "poste": "Identity and Access Management Specialist",
+    "experience": 6,
+    "formation": "Master Sécurité - INSA Lyon",
+    "competences": [
+      "IAM",
+      "Active Directory",
+      "Azure AD",
+      "Okta",
+      "SAML",
+      "OAuth",
+      "SSO",
+      "MFA",
+      "PAM",
+      "Identity Governance"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "cv_url": "https://example.com/cv/eva-giraud.pdf",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 30,
+    "nom": "Faure",
+    "prenom": "Noah",
+    "email": "noah.faure@example.com",
+    "telephone": "+33 6 01 23 45 69",
+    "poste": "AutoML Engineer",
+    "experience": 3,
+    "formation": "Master ML - EPFL",
+    "competences": [
+      "AutoML",
+      "Neural Architecture Search",
+      "Hyperparameter Optimization",
+      "H2O.ai",
+      "AutoKeras",
+      "Python",
+      "TensorFlow",
+      "Model Selection",
+      "Feature Engineering",
+      "Pipeline Automation"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)",
+      "Suisse-Allemand (intermédiaire)"
+    ],
+    "linkedin": "https://linkedin.com/in/noah-faure",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 31,
+    "nom": "Bertrand",
+    "prenom": "Jade",
+    "email": "jade.bertrand@example.com",
+    "telephone": "+33 6 12 34 56 81",
+    "poste": "Reverse Engineer / Malware Analyst",
+    "experience": 8,
+    "formation": "Master Reverse Engineering - ESIEE",
+    "competences": [
+      "Reverse Engineering",
+      "Malware Analysis",
+      "IDA Pro",
+      "Ghidra",
+      "x86/x64 Assembly",
+      "Debugging",
+      "Binary Analysis",
+      "Threat Intelligence",
+      "Python",
+      "C/C++"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/jade-bertrand",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 32,
+    "nom": "David",
+    "prenom": "Adam",
+    "email": "adam.david@example.com",
+    "telephone": "+33 6 23 45 67 82",
+    "poste": "Chief AI Officer",
+    "experience": 13,
+    "formation": "Doctorat IA - Stanford + MBA",
+    "competences": [
+      "AI Strategy",
+      "Leadership",
+      "Innovation",
+      "Research Management",
+      "AI Product",
+      "Team Building",
+      "Fundraising",
+      "Business Development",
+      "Ethics",
+      "Vision"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/adam-david.pdf",
+    "disponibilite": "Préavis de 6 mois"
+  },
+  {
+    "id": 33,
+    "nom": "Gauthier",
+    "prenom": "Nina",
+    "email": "nina.gauthier@example.com",
+    "telephone": "+33 6 34 56 78 93",
+    "poste": "Speech Recognition Engineer",
+    "experience": 5,
+    "formation": "Doctorat Traitement de la Parole - INRIA",
+    "competences": [
+      "Speech Recognition",
+      "NLP",
+      "ASR",
+      "TTS",
+      "Kaldi",
+      "Wav2Vec",
+      "Whisper",
+      "PyTorch",
+      "Audio Processing",
+      "Acoustic Modeling"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)",
+      "Japonais (intermédiaire)"
+    ],
+    "linkedin": "https://linkedin.com/in/nina-gauthier",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 34,
+    "nom": "Perrin",
+    "prenom": "Mathis",
+    "email": "mathis.perrin@example.com",
+    "telephone": "+33 6 45 67 89 04",
+    "poste": "Vulnerability Researcher",
+    "experience": 9,
+    "formation": "Ingénieur + OSWE + OSCE",
+    "competences": [
+      "Vulnerability Research",
+      "Exploit Development",
+      "0-day Discovery",
+      "Fuzzing",
+      "Binary Exploitation",
+      "CVE Publication",
+      "Assembly",
+      "C/C++",
+      "Python",
+      "Bug Bounty"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/mathis-perrin",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 35,
+    "nom": "Denis",
+    "prenom": "Maëlys",
+    "email": "maelys.denis@example.com",
+    "telephone": "+33 6 56 78 90 15",
+    "poste": "Federated Learning Researcher",
+    "experience": 4,
+    "formation": "Doctorat ML Distribué - EPFL",
+    "competences": [
+      "Federated Learning",
+      "Privacy-Preserving ML",
+      "Differential Privacy",
+      "Distributed Systems",
+      "PyTorch",
+      "TensorFlow Federated",
+      "Research",
+      "Secure Aggregation",
+      "Python",
+      "Publications"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/maelys-denis.pdf",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 36,
+    "nom": "Chevalier",
+    "prenom": "Bastien",
+    "email": "bastien.chevalier@example.com",
+    "telephone": "+33 6 67 89 01 26",
+    "poste": "Security Architect",
+    "experience": 10,
+    "formation": "Ingénieur CentraleSupélec + CISSP",
+    "competences": [
+      "Security Architecture",
+      "Enterprise Security",
+      "Zero Trust",
+      "Defense in Depth",
+      "Threat Modeling",
+      "SABSA",
+      "Security Design",
+      "Standards",
+      "Cloud Security",
+      "Network Architecture"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/bastien-chevalier",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 37,
+    "nom": "Joly",
+    "prenom": "Alice",
+    "email": "alice.joly@example.com",
+    "telephone": "+33 6 78 90 12 37",
+    "poste": "Causal Inference Scientist",
+    "experience": 6,
+    "formation": "Doctorat Statistiques - Paris-Saclay",
+    "competences": [
+      "Causal Inference",
+      "Experimentation",
+      "A/B Testing",
+      "Statistics",
+      "Python",
+      "R",
+      "DoWhy",
+      "Econometrics",
+      "Propensity Scoring",
+      "Research"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/alice-joly",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 38,
+    "nom": "Blanchard",
+    "prenom": "Dylan",
+    "email": "dylan.blanchard@example.com",
+    "telephone": "+33 6 89 01 23 48",
+    "poste": "IoT Security Specialist",
+    "experience": 5,
+    "formation": "Master IoT & Cybersécurité - Télécom Paris",
+    "competences": [
+      "IoT Security",
+      "Embedded Security",
+      "Firmware Analysis",
+      "Hardware Security",
+      "Protocol Analysis",
+      "MQTT Security",
+      "Edge Security",
+      "Penetration Testing",
+      "Python",
+      "C"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "cv_url": "https://example.com/cv/dylan-blanchard.pdf",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 39,
+    "nom": "Renaud",
+    "prenom": "Margaux",
+    "email": "margaux.renaud@example.com",
+    "telephone": "+33 6 90 12 34 59",
+    "poste": "Reinforcement Learning Engineer",
+    "experience": 4,
+    "formation": "Master RL - DeepMind Scholar",
+    "competences": [
+      "Reinforcement Learning",
+      "Deep RL",
+      "Q-Learning",
+      "Policy Gradient",
+      "OpenAI Gym",
+      "Multi-Agent RL",
+      "PyTorch",
+      "Robotics",
+      "Simulation",
+      "Python"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/margaux-renaud",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 40,
+    "nom": "Lambert",
+    "prenom": "Axel",
+    "email": "axel.lambert@example.com",
+    "telephone": "+33 6 01 23 45 70",
+    "poste": "Data Privacy Officer (DPO)",
+    "experience": 7,
+    "formation": "Master Droit du Numérique + CIPP/E",
+    "competences": [
+      "GDPR",
+      "Data Privacy",
+      "Privacy by Design",
+      "DPIA",
+      "Compliance",
+      "Legal",
+      "Data Governance",
+      "Training",
+      "Audit",
+      "Policy Development"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)",
+      "Néerlandais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/axel-lambert",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 41,
+    "nom": "Caron",
+    "prenom": "Victoria",
+    "email": "victoria.caron@example.com",
+    "telephone": "+33 6 12 34 56 82",
+    "poste": "Graph Neural Networks Researcher",
+    "experience": 3,
+    "formation": "Doctorat GNN - MILA",
+    "competences": [
+      "Graph Neural Networks",
+      "Deep Learning",
+      "PyTorch Geometric",
+      "DGL",
+      "Graph Theory",
+      "Knowledge Graphs",
+      "Social Network Analysis",
+      "Research",
+      "Python",
+      "Publications"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/victoria-caron.pdf",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 42,
+    "nom": "Picard",
+    "prenom": "Théo",
+    "email": "theo.picard@example.com",
+    "telephone": "+33 6 23 45 67 83",
+    "poste": "Security Compliance Auditor",
+    "experience": 6,
+    "formation": "Master Audit SI - IAE Paris",
+    "competences": [
+      "Security Audit",
+      "ISO 27001",
+      "PCI DSS",
+      "SOC 2",
+      "Compliance",
+      "Risk Assessment",
+      "Control Testing",
+      "Gap Analysis",
+      "Reporting",
+      "Remediation"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/theo-picard",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 43,
+    "nom": "Henry",
+    "prenom": "Élise",
+    "email": "elise.henry@example.com",
+    "telephone": "+33 6 34 56 78 94",
+    "poste": "Generative AI Engineer",
+    "experience": 3,
+    "formation": "Master IA Générative - Sorbonne",
+    "competences": [
+      "Generative AI",
+      "GANs",
+      "Diffusion Models",
+      "LLM",
+      "GPT",
+      "Stable Diffusion",
+      "Prompt Engineering",
+      "PyTorch",
+      "Fine-tuning",
+      "API Integration"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "linkedin": "https://linkedin.com/in/elise-henry",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 44,
+    "nom": "Olivier",
+    "prenom": "Noé",
+    "email": "noe.olivier@example.com",
+    "telephone": "+33 6 45 67 89 05",
+    "poste": "Cryptography Engineer",
+    "experience": 7,
+    "formation": "Doctorat Cryptographie - ENS Lyon",
+    "competences": [
+      "Cryptography",
+      "Public Key Infrastructure",
+      "Encryption",
+      "Hash Functions",
+      "Zero-Knowledge Proofs",
+      "Homomorphic Encryption",
+      "C++",
+      "Python",
+      "Security Protocols",
+      "Research"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/noe-olivier.pdf",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 45,
+    "nom": "Aubry",
+    "prenom": "Anaïs",
+    "email": "anais.aubry@example.com",
+    "telephone": "+33 6 56 78 90 16",
+    "poste": "Edge AI Engineer",
+    "experience": 4,
+    "formation": "Ingénieur Systèmes Embarqués - ENSIMAG",
+    "competences": [
+      "Edge AI",
+      "Model Optimization",
+      "TensorFlow Lite",
+      "ONNX",
+      "Quantization",
+      "Pruning",
+      "Embedded Systems",
+      "IoT",
+      "Real-time Processing",
+      "C++",
+      "Python"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/anais-aubry",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 46,
+    "nom": "Colin",
+    "prenom": "Liam",
+    "email": "liam.colin@example.com",
+    "telephone": "+33 6 67 89 01 27",
+    "poste": "Incident Response Lead",
+    "experience": 9,
+    "formation": "Master Cyber Défense + GCIH",
+    "competences": [
+      "Incident Response",
+      "Crisis Management",
+      "Forensics",
+      "Threat Hunting",
+      "Team Leadership",
+      "Playbook Development",
+      "SIEM",
+      "EDR",
+      "Post-Incident Analysis",
+      "Communication"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/liam-colin",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 47,
+    "nom": "Roussel",
+    "prenom": "Juliette",
+    "email": "juliette.roussel@example.com",
+    "telephone": "+33 6 78 90 12 38",
+    "poste": "Explainable AI Researcher",
+    "experience": 5,
+    "formation": "Doctorat XAI - INRIA",
+    "competences": [
+      "Explainable AI",
+      "Interpretability",
+      "LIME",
+      "SHAP",
+      "Model Transparency",
+      "Research",
+      "Python",
+      "Fairness",
+      "Trust",
+      "Publications"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)",
+      "Italien (courant)"
+    ],
+    "cv_url": "https://example.com/cv/juliette-roussel.pdf",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 48,
+    "nom": "Girard",
+    "prenom": "Antoine",
+    "email": "antoine.girard@example.com",
+    "telephone": "+33 6 89 01 23 49",
+    "poste": "Cloud Native Security Engineer",
+    "experience": 5,
+    "formation": "Master Cloud & DevOps - EPITA",
+    "competences": [
+      "Kubernetes Security",
+      "Container Security",
+      "Service Mesh",
+      "Istio",
+      "Falco",
+      "OPA",
+      "DevSecOps",
+      "Cloud Security",
+      "CI/CD Security",
+      "IaC Security"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "linkedin": "https://linkedin.com/in/antoine-girard",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 49,
+    "nom": "Masson",
+    "prenom": "Chloé",
+    "email": "chloe.masson@example.com",
+    "telephone": "+33 6 90 12 34 60",
+    "poste": "Synthetic Data Scientist",
+    "experience": 3,
+    "formation": "Master Data Science - CentraleSupélec",
+    "competences": [
+      "Synthetic Data",
+      "GANs",
+      "Privacy-Preserving",
+      "Data Augmentation",
+      "Python",
+      "TensorFlow",
+      "SMOTE",
+      "Simulation",
+      "Statistical Validation",
+      "Anonymization"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/chloe-masson",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 50,
+    "nom": "Fernandez",
+    "prenom": "Marco",
+    "email": "marco.fernandez@example.com",
+    "telephone": "+33 6 01 23 45 71",
+    "poste": "Quantum Computing Researcher",
+    "experience": 6,
+    "formation": "Doctorat Quantum Computing - Sorbonne",
+    "competences": [
+      "Quantum Computing",
+      "Quantum Algorithms",
+      "Qiskit",
+      "Quantum Machine Learning",
+      "Python",
+      "Linear Algebra",
+      "Research",
+      "Quantum Cryptography",
+      "Optimization",
+      "Publications"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Espagnol (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/marco-fernandez.pdf",
+    "disponibilite": "Préavis de 4 mois"
+  },
+  {
+    "id": 51,
+    "nom": "Pelletier",
+    "prenom": "Mila",
+    "email": "mila.pelletier@example.com",
+    "telephone": "+33 6 12 34 56 83",
+    "poste": "Security Data Analyst",
+    "experience": 4,
+    "formation": "Master Cyber Analytics - Paris-Saclay",
+    "competences": [
+      "Security Analytics",
+      "Python",
+      "SIEM",
+      "Machine Learning",
+      "Threat Detection",
+      "Data Mining",
+      "Splunk",
+      "ELK Stack",
+      "Anomaly Detection",
+      "Visualization"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/mila-pelletier",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 52,
+    "nom": "Marchand",
+    "prenom": "Ethan",
+    "email": "ethan.marchand@example.com",
+    "telephone": "+33 6 23 45 67 84",
+    "poste": "AI Product Manager",
+    "experience": 7,
+    "formation": "Master Product Management - HEC + Formation IA",
+    "competences": [
+      "Product Management",
+      "AI Strategy",
+      "Roadmap",
+      "Machine Learning",
+      "Data Science",
+      "User Research",
+      "Agile",
+      "Stakeholder Management",
+      "Go-to-Market",
+      "Analytics"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/ethan-marchand.pdf",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 53,
+    "nom": "Dufour",
+    "prenom": "Léna",
+    "email": "lena.dufour@example.com",
+    "telephone": "+33 6 34 56 78 95",
+    "poste": "Mobile Security Specialist",
+    "experience": 5,
+    "formation": "Master Sécurité Mobile - EURECOM",
+    "competences": [
+      "Mobile Security",
+      "Android Security",
+      "iOS Security",
+      "Reverse Engineering",
+      "App Penetration Testing",
+      "Frida",
+      "Objection",
+      "OWASP Mobile",
+      "Java",
+      "Swift"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)",
+      "Arabe (intermédiaire)"
+    ],
+    "linkedin": "https://linkedin.com/in/lena-dufour",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 54,
+    "nom": "Lemoine",
+    "prenom": "Oscar",
+    "email": "oscar.lemoine@example.com",
+    "telephone": "+33 6 45 67 89 06",
+    "poste": "DataOps Engineer",
+    "experience": 4,
+    "formation": "Ingénieur Data - ENSAE",
+    "competences": [
+      "DataOps",
+      "CI/CD for Data",
+      "Apache Airflow",
+      "dbt",
+      "Data Quality",
+      "Monitoring",
+      "Python",
+      "SQL",
+      "Docker",
+      "Kubernetes",
+      "Git"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/oscar-lemoine",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 55,
+    "nom": "Hubert",
+    "prenom": "Romane",
+    "email": "romane.hubert@example.com",
+    "telephone": "+33 6 56 78 90 17",
+    "poste": "Adversarial ML Researcher",
+    "experience": 5,
+    "formation": "Doctorat Adversarial AI - MILA",
+    "competences": [
+      "Adversarial ML",
+      "Adversarial Attacks",
+      "Defense Mechanisms",
+      "Robustness",
+      "Deep Learning",
+      "PyTorch",
+      "Research",
+      "Foolbox",
+      "Security",
+      "Publications"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/romane-hubert.pdf",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 56,
+    "nom": "Carpentier",
+    "prenom": "Yanis",
+    "email": "yanis.carpentier@example.com",
+    "telephone": "+33 6 67 89 01 28",
+    "poste": "OT/ICS Security Engineer",
+    "experience": 8,
+    "formation": "Ingénieur Automatisme + Master Cyber-Physique",
+    "competences": [
+      "OT Security",
+      "ICS Security",
+      "SCADA",
+      "Industrial Protocols",
+      "Network Segmentation",
+      "IEC 62443",
+      "Risk Assessment",
+      "Penetration Testing",
+      "Incident Response",
+      "Compliance"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "linkedin": "https://linkedin.com/in/yanis-carpentier",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 57,
+    "nom": "Leclerc",
+    "prenom": "Alicia",
+    "email": "alicia.leclerc@example.com",
+    "telephone": "+33 6 78 90 12 39",
+    "poste": "Feature Store Engineer",
+    "experience": 3,
+    "formation": "Master ML Engineering - Télécom Paris",
+    "competences": [
+      "Feature Store",
+      "Feast",
+      "Tecton",
+      "Feature Engineering",
+      "Python",
+      "MLOps",
+      "Real-time ML",
+      "Data Pipeline",
+      "Redis",
+      "Spark"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/alicia-leclerc",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 58,
+    "nom": "Legrand",
+    "prenom": "Kylian",
+    "email": "kylian.legrand@example.com",
+    "telephone": "+33 6 89 01 23 50",
+    "poste": "Red Team Operator",
+    "experience": 6,
+    "formation": "Master Offensive Security + OSCP + OSEP",
+    "competences": [
+      "Red Teaming",
+      "Adversary Simulation",
+      "C2 Framework",
+      "Cobalt Strike",
+      "Active Directory",
+      "Lateral Movement",
+      "Privilege Escalation",
+      "Evasion Techniques",
+      "PowerShell",
+      "Python"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "cv_url": "https://example.com/cv/kylian-legrand.pdf",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 59,
+    "nom": "Barbier",
+    "prenom": "Louna",
+    "email": "louna.barbier@example.com",
+    "telephone": "+33 6 90 12 34 61",
+    "poste": "Anomaly Detection Specialist",
+    "experience": 4,
+    "formation": "Master Data Science - Polytechnique",
+    "competences": [
+      "Anomaly Detection",
+      "Isolation Forest",
+      "Autoencoders",
+      "Time Series",
+      "Unsupervised Learning",
+      "Python",
+      "Scikit-learn",
+      "Statistical Analysis",
+      "Real-time Detection",
+      "Monitoring"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "linkedin": "https://linkedin.com/in/louna-barbier",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 60,
+    "nom": "Arnaud",
+    "prenom": "Hugo",
+    "email": "hugo.arnaud@example.com",
+    "telephone": "+33 6 01 23 45 72",
+    "poste": "API Security Architect",
+    "experience": 7,
+    "formation": "Ingénieur + Master Security Architecture",
+    "competences": [
+      "API Security",
+      "OAuth 2.0",
+      "OpenID Connect",
+      "API Gateway",
+      "Rate Limiting",
+      "JWT",
+      "OWASP API Security",
+      "Threat Modeling",
+      "Security Testing",
+      "Architecture"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/hugo-arnaud",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 61,
+    "nom": "Moulin",
+    "prenom": "Emma",
+    "email": "emma.moulin@example.com",
+    "telephone": "+33 6 12 34 56 84",
+    "poste": "Transfer Learning Scientist",
+    "experience": 5,
+    "formation": "Doctorat Deep Learning - Stanford",
+    "competences": [
+      "Transfer Learning",
+      "Domain Adaptation",
+      "Few-Shot Learning",
+      "Meta-Learning",
+      "Pre-training",
+      "Fine-tuning",
+      "PyTorch",
+      "TensorFlow",
+      "Research",
+      "Publications"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/emma-moulin.pdf",
+    "disponibilite": "Préavis de 4 mois"
+  },
+  {
+    "id": 62,
+    "nom": "Prevost",
+    "prenom": "Loan",
+    "email": "loan.prevost@example.com",
+    "telephone": "+33 6 23 45 67 85",
+    "poste": "Secure Code Reviewer",
+    "experience": 6,
+    "formation": "Ingénieur ESGI + GWAPT",
+    "competences": [
+      "Secure Code Review",
+      "Static Analysis",
+      "SAST",
+      "SonarQube",
+      "Checkmarx",
+      "OWASP",
+      "Security Standards",
+      "Java",
+      "Python",
+      "C#",
+      "Remediation"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/loan-prevost",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 63,
+    "nom": "Brun",
+    "prenom": "Agathe",
+    "email": "agathe.brun@example.com",
+    "telephone": "+33 6 34 56 78 96",
+    "poste": "MLOps Platform Engineer",
+    "experience": 5,
+    "formation": "Ingénieur DevOps + Spécialisation ML",
+    "competences": [
+      "MLOps Platform",
+      "Kubeflow",
+      "MLflow",
+      "Model Registry",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Python",
+      "Monitoring",
+      "Infrastructure as Code"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "linkedin": "https://linkedin.com/in/agathe-brun",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 64,
+    "nom": "Lemaitre",
+    "prenom": "Marius",
+    "email": "marius.lemaitre@example.com",
+    "telephone": "+33 6 45 67 89 07",
+    "poste": "Purple Team Lead",
+    "experience": 9,
+    "formation": "Master Cyber Defense + Multiple Certifications",
+    "competences": [
+      "Purple Teaming",
+      "Red Team",
+      "Blue Team",
+      "Attack Simulation",
+      "Defense Improvement",
+      "Threat Emulation",
+      "MITRE ATT&CK",
+      "Team Leadership",
+      "Training",
+      "Reporting"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/marius-lemaitre.pdf",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 65,
+    "nom": "Perrot",
+    "prenom": "Rose",
+    "email": "rose.perrot@example.com",
+    "telephone": "+33 6 56 78 90 18",
+    "poste": "Sentiment Analysis Engineer",
+    "experience": 4,
+    "formation": "Master NLP - Sorbonne",
+    "competences": [
+      "Sentiment Analysis",
+      "NLP",
+      "Text Mining",
+      "BERT",
+      "Transformers",
+      "Python",
+      "SpaCy",
+      "Social Media Analytics",
+      "Opinion Mining",
+      "Aspect-Based SA"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)",
+      "Chinois (intermédiaire)"
+    ],
+    "linkedin": "https://linkedin.com/in/rose-perrot",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 66,
+    "nom": "Roy",
+    "prenom": "Matteo",
+    "email": "matteo.roy@example.com",
+    "telephone": "+33 6 67 89 01 29",
+    "poste": "Kubernetes Security Specialist",
+    "experience": 5,
+    "formation": "Master Cloud Native Security - EPITA",
+    "competences": [
+      "Kubernetes Security",
+      "Container Security",
+      "Pod Security Policies",
+      "Network Policies",
+      "RBAC",
+      "Falco",
+      "Trivy",
+      "Admission Controllers",
+      "Security Scanning",
+      "Compliance"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)",
+      "Italien (natif)"
+    ],
+    "linkedin": "https://linkedin.com/in/matteo-roy",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 67,
+    "nom": "Vidal",
+    "prenom": "Sophia",
+    "email": "sophia.vidal@example.com",
+    "telephone": "+33 6 78 90 12 40",
+    "poste": "Bayesian ML Researcher",
+    "experience": 6,
+    "formation": "Doctorat Statistiques Bayésiennes - Cambridge",
+    "competences": [
+      "Bayesian ML",
+      "Probabilistic Programming",
+      "PyMC3",
+      "Stan",
+      "Uncertainty Quantification",
+      "Inference",
+      "Python",
+      "Research",
+      "MCMC",
+      "Gaussian Processes"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)",
+      "Espagnol (natif)"
+    ],
+    "cv_url": "https://example.com/cv/sophia-vidal.pdf",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 68,
+    "nom": "Fleury",
+    "prenom": "Nathan",
+    "email": "nathan.fleury@example.com",
+    "telephone": "+33 6 89 01 23 51",
+    "poste": "Wireless Security Expert",
+    "experience": 7,
+    "formation": "Ingénieur Télécom + OSWP",
+    "competences": [
+      "Wireless Security",
+      "WiFi Hacking",
+      "Bluetooth Security",
+      "5G Security",
+      "RF Analysis",
+      "Aircrack-ng",
+      "Wireshark",
+      "Protocol Analysis",
+      "Penetration Testing",
+      "IoT Security"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/nathan-fleury",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 69,
+    "nom": "Toussaint",
+    "prenom": "Ambre",
+    "email": "ambre.toussaint@example.com",
+    "telephone": "+33 6 90 12 34 62",
+    "poste": "AutoEncoder Specialist",
+    "experience": 4,
+    "formation": "Master Deep Learning - ENSAE",
+    "competences": [
+      "Autoencoders",
+      "VAE",
+      "Dimensionality Reduction",
+      "Anomaly Detection",
+      "Deep Learning",
+      "PyTorch",
+      "Feature Learning",
+      "Compression",
+      "Denoising",
+      "Python"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (professionnel)"
+    ],
+    "linkedin": "https://linkedin.com/in/ambre-toussaint",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 70,
+    "nom": "Dumont",
+    "prenom": "Timéo",
+    "email": "timeo.dumont@example.com",
+    "telephone": "+33 6 01 23 45 73",
+    "poste": "Security Champion Program Lead",
+    "experience": 8,
+    "formation": "Ingénieur + Master Security Management",
+    "competences": [
+      "Security Champions",
+      "Training & Awareness",
+      "Secure SDLC",
+      "DevSecOps",
+      "Program Management",
+      "Coaching",
+      "Security Culture",
+      "Metrics",
+      "Communication",
+      "Leadership"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "cv_url": "https://example.com/cv/timeo-dumont.pdf",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 71,
+    "nom": "Guillot",
+    "prenom": "Eloise",
+    "email": "eloise.guillot@example.com",
+    "telephone": "+33 6 12 34 56 85",
+    "poste": "Multi-Modal AI Researcher",
+    "experience": 5,
+    "formation": "Doctorat Multi-Modal Learning - FAIR",
+    "competences": [
+      "Multi-Modal Learning",
+      "Vision-Language Models",
+      "CLIP",
+      "DALL-E",
+      "Cross-Modal Retrieval",
+      "Deep Learning",
+      "PyTorch",
+      "Research",
+      "Fusion Techniques",
+      "Publications"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/eloise-guillot",
+    "disponibilite": "Préavis de 4 mois"
+  },
+  {
+    "id": 72,
+    "nom": "Martinez",
+    "prenom": "Diego",
+    "email": "diego.martinez@example.com",
+    "telephone": "+33 6 23 45 67 86",
+    "poste": "SIEM Engineer",
+    "experience": 5,
+    "formation": "Master Cybersécurité - ESIEA",
+    "competences": [
+      "SIEM",
+      "Splunk",
+      "QRadar",
+      "Sentinel",
+      "Log Management",
+      "Correlation Rules",
+      "Use Case Development",
+      "Threat Detection",
+      "Tuning",
+      "Python"
+    ],
+    "langues": [
+      "Français (courant)",
+      "Espagnol (natif)",
+      "Anglais (professionnel)"
+    ],
+    "linkedin": "https://linkedin.com/in/diego-martinez",
+    "disponibilite": "Préavis de 1 mois"
+  },
+  {
+    "id": 73,
+    "nom": "Chevallier",
+    "prenom": "Apolline",
+    "email": "apolline.chevallier@example.com",
+    "telephone": "+33 6 34 56 78 97",
+    "poste": "Retrieval-Augmented Generation Engineer",
+    "experience": 3,
+    "formation": "Master NLP & IR - Télécom Paris",
+    "competences": [
+      "RAG",
+      "LLM",
+      "Vector Databases",
+      "Embeddings",
+      "Information Retrieval",
+      "LangChain",
+      "FAISS",
+      "Semantic Search",
+      "Python",
+      "Prompt Engineering"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "cv_url": "https://example.com/cv/apolline-chevallier.pdf",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 74,
+    "nom": "Perez",
+    "prenom": "Lucas",
+    "email": "lucas.perez@example.com",
+    "telephone": "+33 6 45 67 89 08",
+    "poste": "Ransomware Defense Specialist",
+    "experience": 6,
+    "formation": "Master Cyber Defense + GCTI",
+    "competences": [
+      "Ransomware Defense",
+      "Threat Intelligence",
+      "Incident Response",
+      "Backup Strategy",
+      "Recovery Planning",
+      "Forensics",
+      "EDR",
+      "Network Segmentation",
+      "User Training",
+      "Crisis Management"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)",
+      "Espagnol (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/lucas-perez",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 75,
+    "nom": "Noel",
+    "prenom": "Iris",
+    "email": "iris.noel@example.com",
+    "telephone": "+33 6 56 78 90 19",
+    "poste": "Active Learning Researcher",
+    "experience": 4,
+    "formation": "Doctorat Active Learning - INRIA",
+    "competences": [
+      "Active Learning",
+      "Data Efficiency",
+      "Query Strategies",
+      "Semi-Supervised Learning",
+      "Machine Learning",
+      "Python",
+      "Research",
+      "Human-in-the-Loop",
+      "Annotation",
+      "Optimization"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/iris-noel",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 76,
+    "nom": "Sanchez",
+    "prenom": "Enzo",
+    "email": "enzo.sanchez@example.com",
+    "telephone": "+33 6 67 89 01 30",
+    "poste": "Endpoint Security Engineer",
+    "experience": 5,
+    "formation": "Master Endpoint Protection - EPITA",
+    "competences": [
+      "Endpoint Security",
+      "EDR",
+      "Antivirus",
+      "CrowdStrike",
+      "Carbon Black",
+      "Threat Hunting",
+      "Malware Analysis",
+      "Incident Response",
+      "SIEM Integration",
+      "Automation"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Espagnol (natif)",
+      "Anglais (professionnel)"
+    ],
+    "cv_url": "https://example.com/cv/enzo-sanchez.pdf",
+    "disponibilite": "Immédiate"
+  },
+  {
+    "id": 77,
+    "nom": "Berger",
+    "prenom": "Zoey",
+    "email": "zoey.berger@example.com",
+    "telephone": "+33 6 78 90 12 41",
+    "poste": "Predictive Maintenance AI Engineer",
+    "experience": 5,
+    "formation": "Ingénieur + Master Industrie 4.0",
+    "competences": [
+      "Predictive Maintenance",
+      "Time Series",
+      "Anomaly Detection",
+      "IoT",
+      "Machine Learning",
+      "Python",
+      "Sensor Data",
+      "Failure Prediction",
+      "Deep Learning",
+      "Edge Computing"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)",
+      "Allemand (intermédiaire)"
+    ],
+    "linkedin": "https://linkedin.com/in/zoey-berger",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 78,
+    "nom": "Gaillard",
+    "prenom": "Léo",
+    "email": "leo.gaillard@example.com",
+    "telephone": "+33 6 89 01 23 52",
+    "poste": "Zero Trust Architect",
+    "experience": 8,
+    "formation": "Ingénieur Réseau + Master Zero Trust Security",
+    "competences": [
+      "Zero Trust",
+      "Network Architecture",
+      "Microsegmentation",
+      "Identity-Based Security",
+      "SASE",
+      "Policy Enforcement",
+      "Cloud Security",
+      "SDP",
+      "IAM",
+      "Risk Management"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)"
+    ],
+    "linkedin": "https://linkedin.com/in/leo-gaillard",
+    "disponibilite": "Préavis de 3 mois"
+  },
+  {
+    "id": 79,
+    "nom": "Meunier",
+    "prenom": "Capucine",
+    "email": "capucine.meunier@example.com",
+    "telephone": "+33 6 90 12 34 63",
+    "poste": "Continual Learning Scientist",
+    "experience": 4,
+    "formation": "Doctorat Lifelong Learning - ETH Zurich",
+    "competences": [
+      "Continual Learning",
+      "Lifelong Learning",
+      "Catastrophic Forgetting",
+      "Incremental Learning",
+      "Deep Learning",
+      "PyTorch",
+      "Research",
+      "Memory Systems",
+      "Transfer Learning",
+      "Adaptation"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (bilingue)",
+      "Allemand (courant)"
+    ],
+    "cv_url": "https://example.com/cv/capucine-meunier.pdf",
+    "disponibilite": "Préavis de 4 mois"
+  },
+  {
+    "id": 80,
+    "nom": "Robin",
+    "prenom": "Jules",
+    "email": "jules.robin@example.com",
+    "telephone": "+33 6 01 23 45 74",
+    "poste": "Threat Modeling Specialist",
+    "experience": 7,
+    "formation": "Master Security Engineering - ANSSI",
+    "competences": [
+      "Threat Modeling",
+      "STRIDE",
+      "PASTA",
+      "Attack Trees",
+      "Risk Assessment",
+      "Security Architecture",
+      "Mitigation Strategies",
+      "Design Review",
+      "Threat Intelligence",
+      "Documentation"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/jules-robin",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "id": 81,
+    "nom": "Marrakchi",
+    "prenom": "Maha",
+    "email": "maha.marrakchi@usmba.ac.ma",
+    "telephone": "+33 6 01 23 45 74",
+    "poste": "Threat Modeling Specialist",
+    "experience": 7,
+    "formation": "Ingenieur informatique intelligence artificielle et confiance numerique",
+    "competences": [
+      "Python",
+      "SQL",
+      "security",
+      "Attack Trees",
+      "ai",
+      "Security Architecture",
+      "app conception",
+      "java",
+      "aws",
+      "Documentation"
+    ],
+    "langues": [
+      "Français (natif)",
+      "Anglais (courant)"
+    ],
+    "linkedin": "https://linkedin.com/in/jules-robin",
+    "disponibilite": "Préavis de 2 mois"
+  },
+  {
+    "nom": "Nom de famille",
+    "prenom": "Prénom",
+    "email": "email@adresse.fr",
+    "telephone": "06 12 34 56 78",
+    "poste": "Software Engineering Student",
+    "experience": 2,
+    "formation": "National School of Applied Sciences of Fez (ENSAF)",
+    "competences": [
+      "Python",
+      "C++",
+      "Java",
+      "R",
+      "SQL"
+    ],
+    "langues": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "linkedin": "linkedin.com",
+    "disponibilite": "En cours",
+    "id": 85
+  },
+  {
+    "nom": "Tu",
+    "prenom": "Nom",
+    "email": "tu.nom@mail.com",
+    "telephone": "Non fourni",
+    "poste": "Expert en analyse de CV",
+    "experience": 10,
+    "formation": "Bachelor en Information et Communication",
+    "competences": [
+      "Analyse de CV",
+      "Gestion de projet",
+      "Communication digitale"
+    ],
+    "langues": [
+      "French",
+      "English"
+    ],
+    "linkedin": "Non fourni",
+    "disponibilite": "Disponible",
+    "id": 87
+  },
+  {
+    "nom": "Khadija",
+    "prenom": "Alaoui",
+    "email": "khadijaalaouimranii@gmail.com",
+    "telephone": "",
+    "poste": "Etudiante en ingénierie informatique",
+    "experience": 0,
+    "formation": "Compétences techniques",
+    "competences": [
+      "Angular",
+      "SpringBoot",
+      "PHP",
+      "React.js",
+      "Laravel",
+      "APIs Rest"
+    ],
+    "langues": [
+      "French"
+    ],
+    "linkedin": "",
+    "disponibilite": "En cours",
+    "id": 88
+  },
+  {
+    "nom": "Rimen",
+    "prenom": "Benmoussa",
+    "email": "rim.benmoussa@usmba.ac.ma",
+    "telephone": "+212 6 82 94 69 96",
+    "poste": "Software Engineering Student",
+    "experience": 2,
+    "formation": "National School of Applied Sciences of Fez (ENSAF)",
+    "competences": [
+      "Python",
+      "C",
+      "C++",
+      "C#",
+      "Java",
+      "R",
+      "SQL"
+    ],
+    "langues": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "linkedin": "N/A",
+    "disponibilite": "Present",
+    "id": 89
+  },
+  
+  {
+    "nom": "PROFIL",
+    "prenom": "CONTACT",
+    "email": "kholoud.sandi@usmba.ac.ma",
+    "telephone": "+123-456-7890",
+    "poste": "LEROY",
+    "experience": 123,
+    "formation": "Ingénieur aérospatial polyvalent, je dispose d’une expérience",
+    "competences": [
+      "Vue",
+      "AI"
+    ],
+    "langues": [
+      "Français",
+      "Anglais"
+    ],
+    "linkedin": "",
+    "disponibilite": "Immédiate",
+    "id": 91
+  }
+]
